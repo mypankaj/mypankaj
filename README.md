@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Pankaj 👋
 
-<!--
-**mypankaj/mypankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Information Technology Student  
+🤖 Focused on Artificial Intelligence & Machine Learning  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an Information Technology student passionate about **Artificial Intelligence, Machine Learning, and Data Analysis**.  
+Currently building a strong foundation in **Python, ML algorithms, and real-world projects**.
+
+I believe in **learning by building** and sharing my work openly.
+
+---
+
+## 🧠 Skills
+- Python  
+- Machine Learning  
+- Artificial Intelligence  
+- Data Analysis  
+- Pandas, NumPy  
+- SQL  
+- Statistics  
+- Data Visualization  
+- Power BI, Excel  
+
+---
+
+## 🛠️ Tools & Technologies
+- Anaconda  
+- Jupyter Notebook  
+- Flask (basic)  
+- Git & GitHub  
+
+---
+
+## 📌 Current Focus
+- Machine Learning fundamentals  
+- Data analysis projects  
+- Building AI/ML portfolio projects  
+
+---
+
+## 📂 Projects (Coming Soon 🚧)
+- 📊 Data Analysis using Python  
+- 🤖 Machine Learning Models  
+- 🌐 ML-powered Web Apps  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+
+---
+
+⭐ *Always learning. Always building.*
