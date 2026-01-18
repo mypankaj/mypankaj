@@ -50,7 +50,7 @@ I believe in **learning by building** and sharing my work openly.
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn profile link here)*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/pankaj-maurya-1089593a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 
 ---
 
